@@ -1,9 +1,10 @@
 # StateTreeExtension
 Small plugin to extend the StateTree plugin. Unreal engine 5.1.1
 
-1. Evaluators
+Evaluators
    1.  Attribute update
-2. Tasks
+
+Tasks
    1. Move to
    2. Rotate to
    3. Set focus
@@ -12,6 +13,7 @@ Small plugin to extend the StateTree plugin. Unreal engine 5.1.1
    6. Wait availability of abilities
    7. Activate ability
    8. Apply gameplay effect
-3. CancellableAsyncAction
+
+CancellableAsyncAction
    1. Wait ability end
    2. Wait AI message
